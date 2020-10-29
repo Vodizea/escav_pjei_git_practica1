@@ -6,7 +6,7 @@ public class PracticaGitBehaviour : MonoBehaviour {
     private string nombreAutor;
     
     private void Start() {
+        Debug.Log("practica realizada por: ");
         Debug.Log(nombreAutor);
-        Debug.Log("EduardoSanchez ");
     }
 }
